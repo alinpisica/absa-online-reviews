@@ -1,0 +1,292 @@
+For the price, you cannot eat this well in Manhattan. ---- Expected POSITIVE --- Identified NEGATIVE
+Food was okay, nothing great. ---- Expected NEUTRAL --- Identified POSITIVE
+Can't wait wait for my next visit. ---- Expected POSITIVE --- Identified NEGATIVE
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree. ---- Expected POSITIVE --- Identified NEGATIVE
+Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request! ---- Expected POSITIVE --- Identified NEGATIVE
+the food is decent. ---- Expected NEUTRAL --- Identified POSITIVE
+i know, you were too busy showing off your vintage tee shirt and looking bored, but my agenda is i'm here to eat and enjoy the company of friends, seeking a pleasant experience. ---- Expected NEGATIVE --- Identified POSITIVE
+well, i didn't find it there, and trust, i have told everyone i can think of about my experience.  ---- Expected NEGATIVE --- Identified POSITIVE
+I have been going back again and again. ---- Expected POSITIVE --- Identified NEGATIVE
+Surprisingly nothing could be further from the truth. ---- Expected POSITIVE --- Identified NEGATIVE
+I like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing. ---- Expected POSITIVE --- Identified NEGATIVE
+The service varys from day to day- sometimes they're very nice, and sometimes not. ---- Expected NEGATIVE --- Identified POSITIVE
+The food was average to above-average; the French Onion soup filling yet not overly impressive, and the desserts not brilliant in any way. ---- Expected POSITIVE --- Identified NEGATIVE
+However, go for the ambience, and consider the food just a companion for a trip across the world! ---- Expected POSITIVE --- Identified NEGATIVE
+Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right. ---- Expected POSITIVE --- Identified NEGATIVE
+The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese. ---- Expected POSITIVE --- Identified NEGATIVE
+Decent wine at reasonable prices. ---- Expected NEUTRAL --- Identified POSITIVE
+Everytime I decide to try another place on the UES, I get angry that I didn't just go to Zucchero Pomodori. ---- Expected POSITIVE --- Identified NEGATIVE
+I'm partial to the Gnocchi. ---- Expected POSITIVE --- Identified NEGATIVE
+This place is incredibly tiny. ---- Expected NEGATIVE --- Identified POSITIVE
+We were worried we would have trouble getting in, but somehow managed to have a short wait. ---- Expected POSITIVE --- Identified NEGATIVE
+Slightly on the pricey side but worth it! ---- Expected NEGATIVE --- Identified POSITIVE
+There was a small wait, but shorter than I expected. ---- Expected POSITIVE --- Identified NEGATIVE
+The place is small and cramped but the food is fantastic. ---- Expected NEGATIVE --- Identified POSITIVE
+The atmosphere isn't the greatest , but I suppose that's how they keep the prices down . ---- Expected NEUTRAL --- Identified NEGATIVE
+those rolls were big, but not good and sashimi wasn't fresh. ---- Expected NEUTRAL --- Identified NEGATIVE
+I have been going there since it opened and I can't get enough. ---- Expected POSITIVE --- Identified NEGATIVE
+It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area. ---- Expected NEUTRAL --- Identified POSITIVE
+Service is not exactly five star, but thats not really a big deal. ---- Expected NEUTRAL --- Identified NEGATIVE
+Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes.  ---- Expected NEGATIVE --- Identified POSITIVE
+I had a grat time at Jekyll and Hyde! ---- Expected POSITIVE --- Identified NEGATIVE
+Inside is a little cramped, but to be expected. ---- Expected NEUTRAL --- Identified NEGATIVE
+Prices are in line. ---- Expected NEUTRAL --- Identified POSITIVE
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS! ---- Expected NEGATIVE --- Identified POSITIVE
+The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm. ---- Expected POSITIVE --- Identified NEGATIVE
+To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok.  ---- Expected NEUTRAL --- Identified POSITIVE
+As many other reviewers noticed, your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time. ---- Expected NEUTRAL --- Identified POSITIVE
+If we were to move from the upper east side, we would genuinely miss this restaurant. ---- Expected POSITIVE --- Identified NEGATIVE
+The restaurant is cute but not upscale. ---- Expected NEUTRAL --- Identified POSITIVE
+This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was. ---- Expected POSITIVE --- Identified NEGATIVE
+The scallion pancakes and fried dumplings were nothing out of the ordinary. ---- Expected NEUTRAL --- Identified NEGATIVE
+The service was the only thing good about this restaurant. ---- Expected POSITIVE --- Identified NEGATIVE
+The price is reasonable although the service is poor. ---- Expected POSITIVE --- Identified NEGATIVE
+too large for just two people but nothing was left. ---- Expected NEUTRAL --- Identified NEGATIVE
+In any event, this is a place I'll be sure to stop by again when I'm in this part of town. ---- Expected POSITIVE --- Identified NEGATIVE
+We even had a visit from the Manager who wanted to make sure we were enjoying ourselves. ---- Expected POSITIVE --- Identified NEGATIVE
+Yes, the prices are high, but I felt it was worth it. ---- Expected NEGATIVE --- Identified POSITIVE
+And where does Patis go wrong; no where.  ---- Expected POSITIVE --- Identified NEGATIVE
+Mine was a little burnt but still delicious with goat cheese and panchetta (raddichio was kind of bitter though). ---- Expected NEGATIVE --- Identified POSITIVE
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids. ---- Expected NEUTRAL --- Identified NEGATIVE
+Service was slow, but the people were friendly. ---- Expected NEGATIVE --- Identified POSITIVE
+And amazingly cheap. ---- Expected POSITIVE --- Identified NEGATIVE
+Slightly above average wines start at $70+ with only one selection listed at $30+. ---- Expected NEGATIVE --- Identified POSITIVE
+To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora. ---- Expected POSITIVE --- Identified NEGATIVE
+Myagi is one of my favorite restaurants in the City; the place the negative reviews describe sound like they were somewhere else. ---- Expected POSITIVE --- Identified NEGATIVE
+I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away. ---- Expected POSITIVE --- Identified NEGATIVE
+The place is so cool and the service is prompt and curtious. ---- Expected POSITIVE --- Identified NEGATIVE
+I had Lobster Bisque it has 2 oz. of Maine Lobster in it. ---- Expected POSITIVE --- Identified NEGATIVE
+My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque. ---- Expected POSITIVE --- Identified NEGATIVE
+All in all we're already coming up with excuses to go ahead really soon in the next few wks!!!! ---- Expected POSITIVE --- Identified NEGATIVE
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like. ---- Expected NEGATIVE --- Identified POSITIVE
+Please be aware that it's CASH or AMEX only! ---- Expected NEUTRAL --- Identified NEGATIVE
+With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great. ---- Expected NEUTRAL --- Identified NEGATIVE
+The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic, just simple, small and sparse. ---- Expected NEUTRAL --- Identified NEGATIVE
+The food however, is what one might expect. ---- Expected NEGATIVE --- Identified POSITIVE
+Food was good not great not worth the wait or another visit ---- Expected NEUTRAL --- Identified NEGATIVE
+A little overpriced but worth it once you take a bite. ---- Expected NEGATIVE --- Identified POSITIVE
+Everything we had was good or ok....but definitely nothing great. ---- Expected NEUTRAL --- Identified NEGATIVE
+The ambience was nice, but service wasn't so great. ---- Expected POSITIVE --- Identified NEGATIVE
+The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo. ---- Expected POSITIVE --- Identified NEGATIVE
+Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art. ---- Expected NEGATIVE --- Identified POSITIVE
+I must give it Yon out of Yon stars! ---- Expected POSITIVE --- Identified NEGATIVE
+The prices were CHEAP compared to the quality of service and food. ---- Expected POSITIVE --- Identified NEGATIVE
+The location and ambience is Ok but the food is what makes up for it. ---- Expected NEUTRAL --- Identified POSITIVE
+Try green curry with vegetables. ---- Expected POSITIVE --- Identified NEGATIVE
+The service is ok, some of the people didn't get what they asked for. ---- Expected NEUTRAL --- Identified POSITIVE
+Moderate prices. ---- Expected NEUTRAL --- Identified POSITIVE
+A little noise but I think that was because of our party! ---- Expected NEUTRAL --- Identified NEGATIVE
+Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite. ---- Expected POSITIVE --- Identified NEGATIVE
+Although the tables may be closely situated, the candle-light, food-quality and service overcompensate. ---- Expected POSITIVE --- Identified NEGATIVE
+Amma is nothing special. ---- Expected NEUTRAL --- Identified NEGATIVE
+This place is always packed. ---- Expected NEUTRAL --- Identified POSITIVE
+Try the sea bass. ---- Expected POSITIVE --- Identified NEGATIVE
+JUST AWSOME. ---- Expected POSITIVE --- Identified NEGATIVE
+not sure why this restaurant would be rated that highly. ---- Expected NEGATIVE --- Identified POSITIVE
+wont come back again for sure! ---- Expected NEGATIVE --- Identified POSITIVE
+The dinner was ok, nothing I would have again. ---- Expected NEGATIVE --- Identified POSITIVE
+The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must! ---- Expected NEGATIVE --- Identified POSITIVE
+Try the Pad Thai, it's fabulous and their prices are so cheap! ---- Expected POSITIVE --- Identified NEGATIVE
+Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience. ---- Expected POSITIVE --- Identified NEGATIVE
+It's a rather cramped and busy restaurant and it closes early. ---- Expected NEGATIVE --- Identified POSITIVE
+The menu is limited but almost all of the dishes are excellent. ---- Expected NEGATIVE --- Identified POSITIVE
+Even though its good seafood, the prices are too high. ---- Expected POSITIVE --- Identified NEGATIVE
+The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price. ---- Expected POSITIVE --- Identified NEGATIVE
+When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort. ---- Expected POSITIVE --- Identified NEGATIVE
+please don't fool us. ---- Expected NEGATIVE --- Identified POSITIVE
+Of course, it is crowded but who cares. ---- Expected NEUTRAL --- Identified NEGATIVE
+I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded. ---- Expected POSITIVE --- Identified NEGATIVE
+I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!! ---- Expected NEGATIVE --- Identified POSITIVE
+The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place. ---- Expected NEGATIVE --- Identified POSITIVE
+Service is average. ---- Expected NEUTRAL --- Identified POSITIVE
+I wasn't thrilled to have to wait on line for thirty minutes, but I guess that's the price you pay for a popular place. ---- Expected NEUTRAL --- Identified POSITIVE
+While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude. ---- Expected NEGATIVE --- Identified POSITIVE
+Never again! ---- Expected NEGATIVE --- Identified POSITIVE
+this is can became on e of the NY Italian Food fare institutions. ---- Expected POSITIVE --- Identified NEGATIVE
+If the weather is nice, try to snag an outside table. ---- Expected POSITIVE --- Identified NEGATIVE
+The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often. ---- Expected POSITIVE --- Identified NEGATIVE
+I also ordered the Change Mojito, which was out of this world. ---- Expected POSITIVE --- Identified NEGATIVE
+My friends settled for rice dishes, but we came back the following day to try the dim sum, which was good...not outstanding, but good. ---- Expected NEUTRAL --- Identified POSITIVE
+My son and his girlfriend both wanted cheeseburgers and they were huge! ---- Expected NEUTRAL --- Identified POSITIVE
+I had a huge pastrami sandwich on a roll. ---- Expected NEUTRAL --- Identified NEGATIVE
+It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere! ---- Expected NEUTRAL --- Identified NEGATIVE
+My husband said he could've eaten several more, the portion was fine for me he even exclaimed that the french fries were the best he has had. ---- Expected NEGATIVE --- Identified POSITIVE
+it's the only place you can get yummy authentic japanese comfort food. ---- Expected POSITIVE --- Identified NEGATIVE
+and you can't beat the prices. ---- Expected POSITIVE --- Identified NEGATIVE
+Average to good Thai food, but terrible delivery. ---- Expected POSITIVE --- Identified NEGATIVE
+I am reluctant to write because I would not want my jem of a pizza place to become overcrowded. ---- Expected POSITIVE --- Identified NEGATIVE
+The menu has so many fish items and oysters. ---- Expected POSITIVE --- Identified NEGATIVE
+Immediately after we paid, the waiter took the money and said, okay, you guys are outta here. ---- Expected NEGATIVE --- Identified POSITIVE
+The first time the sushi was outstanding, the second time it was a little bland. ---- Expected POSITIVE --- Identified NEGATIVE
+I'm sure I'll return for a final judgement tho. ---- Expected NEUTRAL --- Identified NEGATIVE
+Mizu is the Japenese find in Grammercy. ---- Expected POSITIVE --- Identified NEGATIVE
+Warning: You may find it difficult to dine at other Japanese restaurants after a visit to Mizu! ---- Expected POSITIVE --- Identified NEGATIVE
+Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up. ---- Expected POSITIVE --- Identified NEGATIVE
+Authentic Taiwanese food that's cheap... what more could you ask for? ---- Expected POSITIVE --- Identified NEGATIVE
+(Besides that there should be more restaurants like it around the city). ---- Expected POSITIVE --- Identified NEGATIVE
+My friend devoured her chicken and mashed potatos. ---- Expected POSITIVE --- Identified NEGATIVE
+They charge different prices all the time. ---- Expected NEGATIVE --- Identified POSITIVE
+Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary. ---- Expected NEGATIVE --- Identified POSITIVE
+The atmosphere is unheralded, the service impecible, and the food magnificant. ---- Expected POSITIVE --- Identified NEGATIVE
+It is nearly impossible to get a table, so if you ever have the chance to go here for dinner, DO NOT pass it up. ---- Expected POSITIVE --- Identified NEGATIVE
+It is set far from the small street it's on, and there is no traffic noise. ---- Expected POSITIVE --- Identified NEGATIVE
+Try sushimi cucumber roll. ---- Expected POSITIVE --- Identified NEGATIVE
+So close, but not good enough. ---- Expected NEUTRAL --- Identified NEGATIVE
+Don't be fooled by crowds of people. ---- Expected NEGATIVE --- Identified POSITIVE
+I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza. ---- Expected POSITIVE --- Identified NEGATIVE
+A little pricey but it really hits the spot on a Sunday morning! ---- Expected NEGATIVE --- Identified POSITIVE
+Bagels are ok, but be sure not to make any special requests! ---- Expected NEUTRAL --- Identified POSITIVE
+the turkey burgers are scary! ---- Expected NEGATIVE --- Identified POSITIVE
+If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here. ---- Expected NEGATIVE --- Identified POSITIVE
+Awsome Pizza especially the Margheritta slice. ---- Expected POSITIVE --- Identified NEGATIVE
+What more can you ask for? ---- Expected POSITIVE --- Identified NEGATIVE
+The rest of the dim sum, though pricey by Chinatown standards, is worth it. ---- Expected NEGATIVE --- Identified POSITIVE
+The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative. ---- Expected NEGATIVE --- Identified POSITIVE
+the pad se ew chicken was delicious, however the pad thai was far too oily. ---- Expected POSITIVE --- Identified NEGATIVE
+Been there, done that, and New York, it's not that big a deal. ---- Expected NEUTRAL --- Identified NEGATIVE
+The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying. ---- Expected NEGATIVE --- Identified POSITIVE
+If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype. ---- Expected NEGATIVE --- Identified POSITIVE
+Rao is a good restaurant, but it's nothing special. ---- Expected NEUTRAL --- Identified NEGATIVE
+But after last night, Spice Grill is the only place I'm eating indian cuisine. ---- Expected POSITIVE --- Identified NEGATIVE
+You must try the shrimp appetizers. ---- Expected POSITIVE --- Identified NEGATIVE
+If you are looking for a good quality, cheap eats - this is the place. ---- Expected POSITIVE --- Identified NEGATIVE
+Downtown Dinner 2002 - Prixe fix: Appetizers were ok, waiter gave me poor suggestion..try the potato stuff kanish best one. ---- Expected NEUTRAL --- Identified NEGATIVE
+Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good. ---- Expected NEGATIVE --- Identified POSITIVE
+Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house... ---- Expected NEUTRAL --- Identified NEGATIVE
+Not the typical NYC gimmick theme restaurant. ---- Expected POSITIVE --- Identified NEGATIVE
+The shrimp scampi was excellent and the antipasti were plentiful. ---- Expected POSITIVE --- Identified NEGATIVE
+It is expensive but well worth the money. ---- Expected NEGATIVE --- Identified POSITIVE
+If you venture off the island of Manhattan and can't seem to find a great Italian restaurant, drive to Corona. ---- Expected POSITIVE --- Identified NEGATIVE
+The only thing the waiters don't do for you is wipe your chin when you leave. ---- Expected POSITIVE --- Identified NEGATIVE
+Service was very prompt but slightly rushed. ---- Expected POSITIVE --- Identified NEGATIVE
+Food was very good, but not what I would consider out of this world. ---- Expected NEUTRAL --- Identified NEGATIVE
+Priced at upper intermediate range. ---- Expected NEGATIVE --- Identified POSITIVE
+However, if you want great food at a great price and don't mind the decor, you can't beat this place. ---- Expected POSITIVE --- Identified NEGATIVE
+How do you rate home? ---- Expected POSITIVE --- Identified NEGATIVE
+While the ambiance and atmosphere were great, the food and service could have been a lot better. ---- Expected POSITIVE --- Identified NEGATIVE
+stick with the chicken, beef, and lamb dishes. ---- Expected POSITIVE --- Identified NEGATIVE
+It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York. ---- Expected POSITIVE --- Identified NEGATIVE
+Ravioli was good...but I have to say that I found everything a bit overpriced. ---- Expected POSITIVE --- Identified NEGATIVE
+Food was just average...if they lowered the prices just a bit, it would be a bigger draw. ---- Expected NEUTRAL --- Identified NEGATIVE
+This place is a great bargain. ---- Expected POSITIVE --- Identified NEGATIVE
+Don't waste money on decor. ---- Expected NEUTRAL --- Identified POSITIVE
+What more could you want? ---- Expected POSITIVE --- Identified NEGATIVE
+The food was actually aweful. ---- Expected NEGATIVE --- Identified POSITIVE
+If only they delivered, they'd make a mint! ---- Expected NEUTRAL --- Identified NEGATIVE
+The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people. ---- Expected POSITIVE --- Identified NEGATIVE
+For those that go once and don't enjoy it, all I can say is that they just don't get it. ---- Expected POSITIVE --- Identified NEGATIVE
+Good luck getting a table. ---- Expected NEUTRAL --- Identified POSITIVE
+The food was delicious but do not come here on a empty stomach. ---- Expected POSITIVE --- Identified NEGATIVE
+The portions are small but being that the food was so good makes up for that. ---- Expected NEGATIVE --- Identified POSITIVE
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert. ---- Expected POSITIVE --- Identified NEGATIVE
+When family came in he gave them apps to test their palets, and then ordered for them. ---- Expected POSITIVE --- Identified NEGATIVE
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork. ---- Expected POSITIVE --- Identified NEGATIVE
+its a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are. ---- Expected NEUTRAL --- Identified POSITIVE
+Price and quality of fish alone will keep us from making a return visit. ---- Expected NEGATIVE --- Identified POSITIVE
+We were seated outside and the waiter spilled red wine and hot tea on myself and my date. ---- Expected NEGATIVE --- Identified POSITIVE
+The food is okay and the prices here are mediocre. ---- Expected NEUTRAL --- Identified NEGATIVE
+I have never before eaten 40 pieces of relatively good nigiri. ---- Expected NEUTRAL --- Identified POSITIVE
+I would highly recommand requesting a table by the window. ---- Expected POSITIVE --- Identified NEGATIVE
+I would say that all was fine and tasty but the heaviness on my stomach someting that i can't not mention or undermine. ---- Expected NEGATIVE --- Identified POSITIVE
+We could have made a meal of the yummy dumplings from the dumpling menu. ---- Expected POSITIVE --- Identified NEGATIVE
+Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck. ---- Expected POSITIVE --- Identified NEGATIVE
+Run don't walk. ---- Expected POSITIVE --- Identified NEGATIVE
+Will comeback for sure, wish they have it here in LA.. ---- Expected POSITIVE --- Identified NEGATIVE
+The space kind of feels like an Alice in Wonderland setting, without it trying to be that. ---- Expected NEGATIVE --- Identified POSITIVE
+I paid just about $60 for a good meal, though :) ---- Expected POSITIVE --- Identified NEGATIVE
+Have never had a problem with service save a missing rice once. ---- Expected POSITIVE --- Identified NEGATIVE
+This place has ruined me for neighborhood sushi. ---- Expected POSITIVE --- Identified NEGATIVE
+Not cheap but very yummy. ---- Expected NEGATIVE --- Identified POSITIVE
+The place is a bit hidden away, but once you get there, it's all worth it. ---- Expected NEUTRAL --- Identified POSITIVE
+Place is open till late, no dress code. ---- Expected POSITIVE --- Identified NEGATIVE
+The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food. ---- Expected NEGATIVE --- Identified POSITIVE
+its alright ---- Expected NEUTRAL --- Identified POSITIVE
+lobster was good, nothing spectacular. ---- Expected NEUTRAL --- Identified NEGATIVE
+its just a fun place to go, not a five star restaraunt. ---- Expected NEUTRAL --- Identified POSITIVE
+I would never recommend this place to anybody even for a casual dinner. ---- Expected NEGATIVE --- Identified POSITIVE
+food was luke warm. ---- Expected NEGATIVE --- Identified POSITIVE
+The food was excellent as well as service, however, I left The Four Seasons very dissappointed. ---- Expected POSITIVE --- Identified NEGATIVE
+If you don't like it, I don't know what to tell you. ---- Expected POSITIVE --- Identified NEGATIVE
+Food was OK. ---- Expected NEUTRAL --- Identified POSITIVE
+Oh, and there's hookah. ---- Expected POSITIVE --- Identified NEGATIVE
+Overall, decent food at a good price, with friendly people. ---- Expected NEUTRAL --- Identified POSITIVE
+Decor needs to be upgraded but the food is amazing! ---- Expected NEGATIVE --- Identified POSITIVE
+Every time I have a special occasion with my boyfriend I have a hard time going anywhere else. ---- Expected POSITIVE --- Identified NEGATIVE
+The high prices you're going to pay is for the view not for the food. ---- Expected NEUTRAL --- Identified NEGATIVE
+The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions. ---- Expected POSITIVE --- Identified NEGATIVE
+The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order. ---- Expected POSITIVE --- Identified NEGATIVE
+The food was ok and fair nothing to go crazy. ---- Expected NEUTRAL --- Identified POSITIVE
+Will prob. not return but it is a great dinning experience to try atleast once. ---- Expected NEGATIVE --- Identified POSITIVE
+Food took some time to prepare, all worth waiting for. ---- Expected POSITIVE --- Identified NEGATIVE
+I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for). ---- Expected POSITIVE --- Identified NEGATIVE
+For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service. ---- Expected POSITIVE --- Identified NEGATIVE
+Sushi experience was unbelievable with my fiance. ---- Expected POSITIVE --- Identified NEGATIVE
+If you're into being lost when you're just five feet from your table then hey, that's a good thing. ---- Expected NEGATIVE --- Identified POSITIVE
+Not a very fancy place but very good Chinese style Indian food. ---- Expected NEUTRAL --- Identified POSITIVE
+This place survives on reputation alone. ---- Expected NEGATIVE --- Identified POSITIVE
+you should travel from the Bronx to try it... ---- Expected POSITIVE --- Identified NEGATIVE
+In about 12 minutes, the thing is gone. ---- Expected POSITIVE --- Identified NEGATIVE
+For me dishes a little oily, but overall dining experience good. ---- Expected NEGATIVE --- Identified POSITIVE
+Helpful service and average price per dish $10. ---- Expected POSITIVE --- Identified NEGATIVE
+Be prepared to wait, because the place is pretty tiny. ---- Expected NEGATIVE --- Identified POSITIVE
+Also, they do not take credit card so come with cash! ---- Expected NEUTRAL --- Identified NEGATIVE
+Even though the place is not beautiful, the food speaks for itself. ---- Expected NEGATIVE --- Identified POSITIVE
+I came across Village Underground by accident, now I go there all the time. ---- Expected POSITIVE --- Identified NEGATIVE
+You can get a table without a reservation if you get there early I they don't make you by bottles. ---- Expected POSITIVE --- Identified NEGATIVE
+What you are paying for is the environment and the name. ---- Expected NEUTRAL --- Identified POSITIVE
+Surprised that a place of this caliber would advertise it as Kobe. ---- Expected NEGATIVE --- Identified POSITIVE
+Vanison was good but not amazing. ---- Expected NEUTRAL --- Identified NEGATIVE
+I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it. ---- Expected NEGATIVE --- Identified POSITIVE
+The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say "I've been to the four seasons restaurant". ---- Expected NEUTRAL --- Identified POSITIVE
+I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it. ---- Expected NEGATIVE --- Identified POSITIVE
+The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts. ---- Expected NEUTRAL --- Identified POSITIVE
+I agree that dining at Casa La Femme is like no other dining experience! ---- Expected NEGATIVE --- Identified POSITIVE
+We did arrive late for our reservation so I can not complain too much about the wait for a table. ---- Expected NEUTRAL --- Identified POSITIVE
+I would not expect this for a $55 dinner. ---- Expected NEGATIVE --- Identified POSITIVE
+At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us. ---- Expected POSITIVE --- Identified NEGATIVE
+The menu is fairly simple without much descriptions.  ---- Expected NEUTRAL --- Identified NEGATIVE
+The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each).  ---- Expected POSITIVE --- Identified NEGATIVE
+The lobster knuckles (special of the day) were ok, but pretty tasteless. ---- Expected NEUTRAL --- Identified NEGATIVE
+The food arrived in about 15 minutes.  ---- Expected NEUTRAL --- Identified POSITIVE
+Very "normal Indian food", but done really well. ---- Expected NEUTRAL --- Identified POSITIVE
+I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel. ---- Expected POSITIVE --- Identified NEGATIVE
+The lunch buffet is expensive but is deff worth it. ---- Expected NEGATIVE --- Identified POSITIVE
+Eat at your own risk. ---- Expected NEGATIVE --- Identified POSITIVE
+The bibimbap was average, but the stone bowl wasn't even close to sizzling. ---- Expected NEUTRAL --- Identified NEGATIVE
+The side dishes were passable, and I did get a refill upon request. ---- Expected NEUTRAL --- Identified POSITIVE
+We've tried before but it always packed and doesn't take reservations. ---- Expected NEUTRAL --- Identified NEGATIVE
+It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal. ---- Expected NEGATIVE --- Identified POSITIVE
+A quintessential slice of NYC pizza. ---- Expected NEUTRAL --- Identified POSITIVE
+Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city. ---- Expected NEUTRAL --- Identified POSITIVE
+If youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!). ---- Expected POSITIVE --- Identified NEGATIVE
+I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better. ---- Expected POSITIVE --- Identified NEGATIVE
+For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal. ---- Expected NEUTRAL --- Identified POSITIVE
+I tried a couple other dishes but wasn't too impressed. ---- Expected NEUTRAL --- Identified NEGATIVE
+But for the Shabu Shabu, you won't find much better in NY. ---- Expected POSITIVE --- Identified NEGATIVE
+Restaurant with a view ---- Expected NEUTRAL --- Identified POSITIVE
+The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner. ---- Expected POSITIVE --- Identified NEGATIVE
+Our waitress wasn't mean, but not especially warm or attentive either. ---- Expected NEUTRAL --- Identified NEGATIVE
+I must say I am surprised by the bad reviews of the restaurant earlier in the year, though. ---- Expected POSITIVE --- Identified NEGATIVE
+Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn. ---- Expected NEGATIVE --- Identified POSITIVE
+Polite acknowledgement is out; ---- Expected NEGATIVE --- Identified POSITIVE
+A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious). ---- Expected NEGATIVE --- Identified POSITIVE
+On that scale, it's a world-beater. ---- Expected NEGATIVE --- Identified POSITIVE
+I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE. ---- Expected NEGATIVE --- Identified POSITIVE
+cirspy crust margherita pizza ---- Expected POSITIVE --- Identified NEGATIVE
+the crust was imazingly cooked well and pizza was fully loaded:):):) ---- Expected POSITIVE --- Identified NEGATIVE
+The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews. ---- Expected NEGATIVE --- Identified POSITIVE
+The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!! ---- Expected NEUTRAL --- Identified NEGATIVE
+It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.  ---- Expected NEGATIVE --- Identified POSITIVE
+Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return.  ---- Expected POSITIVE --- Identified NEGATIVE
+I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal.  ---- Expected NEGATIVE --- Identified POSITIVE
+So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first... ---- Expected NEGATIVE --- Identified POSITIVE
+Maitre-D-"Eat and get out" ---- Expected NEGATIVE --- Identified POSITIVE
+The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant. ---- Expected POSITIVE --- Identified NEGATIVE
+Everyone must come here at least once. ---- Expected POSITIVE --- Identified NEGATIVE
+Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night. ---- Expected POSITIVE --- Identified NEGATIVE
+Donâ€™t go to this place! ---- Expected NEGATIVE --- Identified POSITIVE
+The food is very good, but not outstanding. ---- Expected NEUTRAL --- Identified NEGATIVE
+I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table. ---- Expected NEGATIVE --- Identified POSITIVE
+1419
+289
+78
